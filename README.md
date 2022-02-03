@@ -6,7 +6,7 @@ Wanna surprise your friends with an animation using HTML and CSS? Download this 
 
 ### Warning
 
-If you are going to mdify this app to your liking, then please make sure you have a good knowledge of HTML and CSS.
+If you are going to modify this app to your liking, then please make sure you have a good knowledge of HTML and CSS.
 If you don't, then I am not responsible for this!
 
 ---

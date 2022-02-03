@@ -32,7 +32,7 @@ It has animated gradient border and rotating cube, also the cube's color is anim
 
 ---
 
-> - [Check the Realtime Preview of Website](https://dev--cuboid-animation-website.shirocode.autocode.gg/)
+> - [Check the Realtime Preview of Website](https://shirocodekidboy.github.io/Cuboid-Animation-Website/)
 
 ---
 

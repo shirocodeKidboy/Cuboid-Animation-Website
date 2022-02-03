@@ -89,7 +89,7 @@ body{
     transform: rotateY(90deg) translateZ(600px);
 }
 
-.styling .length1 span{
+.styling .length span{
     position: absolute;
     top: 0;
     left: 0;
@@ -110,7 +110,7 @@ body{
     transform: rotateX(90deg) translateZ(200px);
 }
 
-.styling .length1 span h2{
+.styling .length span h2{
     color: #fff;
     font-size: 4em;
     margin: auto;
@@ -125,67 +125,12 @@ body{
     font-size: 4em;
     margin: auto;
     text-align: center;
-    animation: typingSide1 5s steps(11) infinite alternate;
-    overflow: hidden;
-    white-space: nowrap;
-}
-
-.styling .side1 span h2 a{
-    text-decoration: underline;
-    color: #fff;
-}
-
-.styling .side2 span h2{
-    color: #fff;
-    font-size: 4em;
-    margin: auto;
-    text-align: center;
-    animation: typingSide2 5s steps(11) infinite alternate;
+    animation: typing 5s steps(25) infinite alternate;
     overflow: hidden;
     white-space: nowrap;
 }
 
 @keyframes typing{
-    0% {
-        width: 0ch;
-    } 50% {
-        width: 11ch;
-    } 100% {
-        width: 0ch;
-    }
-}
-
-.styling .length2 span h2{
-    color: #fff;
-    font-size: 3.5em;
-    margin: auto;
-    text-align: center;
-    animation: typingLength2 5s steps(26) infinite alternate;
-    overflow: hidden;
-    white-space: nowrap;
-}
-
-@keyframes typingSide1{
-    0% {
-        width: 0ch;
-    } 50% {
-        width: 11ch;
-    } 100% {
-        width: 0ch;
-    }
-}
-
-@keyframes typingLength2{
-    0% {
-        width: 0ch;
-    } 50% {
-        width: 26ch;
-    } 100% {
-        width: 0ch;
-    }
-}
-
-@keyframes typingSide2{
     0% {
         width: 0ch;
     } 50% {

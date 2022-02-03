@@ -1,6 +1,6 @@
 # Cuboid Animation Website
 
-Wanna surprise your friends with an animation using HTML and CSS? Download this app if you do!👍
+Wanna surprise your friends with an animation using HTML and CSS? Use these codes if you do!👍
 
 ---
 
@@ -32,13 +32,7 @@ It has animated gradient border and rotating cube, also the cube's color is anim
 
 ---
 
-### Links
-
-> - [Autocode's Server](https://discord.gg/autocode/)
-> - [Realtime Preview of Website](https://dev--cuboid-animation-website.shirocode.autocode.gg/)
-> - [Autocode's Guide](https://autocode.com/guides/how-to-build-a-discord-bot/)
-> - [Sign up here](https://discord.autocode.com/)
-> - [Autocode's Documentation](https://docs.autocode.com)
+> - [Check the Realtime Preview of Website](https://dev--cuboid-animation-website.shirocode.autocode.gg/)
 
 ---
 

@@ -18,9 +18,9 @@ If you don't, then I am not responsible for this!
 
 ---
 
-### Helpers
+- Is this website responsive for all the screen sizes?
 
-No one helped me😅I made it alone. I took references of some source codes and I watched youtube to take reference too.
+> Yes, the cuboid will be shown completely for all the screen sizes, however the bigger screen sizes may notice the cuboid as small because the width of the cuboid is smaller the width of a bigger screen.
 
 ---
 

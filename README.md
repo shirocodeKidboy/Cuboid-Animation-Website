@@ -36,4 +36,4 @@ It has animated gradient border and rotating cube, also the cube's color is anim
 
 ---
 
-DM me (ShiroCode#8600) if you have any issues👍Thanks for viewing my app!
+DM me (ShiroCode#8600) in discord if you have any issues👍Thanks for viewing my app!
